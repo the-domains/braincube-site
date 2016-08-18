@@ -1,4 +1,3 @@
-layout_spectrum: 0.9565368224866688
 typography_spectrum: 0.274723858339712
 color:
   brandStrength: 0.45103174285031855
@@ -6,9 +5,11 @@ color:
   saturation: 0.5443310912232846
   rhythmicContrast: 0.4741572851780802
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.9565368224866688
 name: BrainCube Site
+title: BrainCube Consulting
